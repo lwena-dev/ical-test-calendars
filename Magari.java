@@ -29,7 +29,7 @@ class SortByYear implements Comparator {
   }
 }
 
-public class Main { 
+public class Magari { 
   public static void main(String[] args) { 
     // Create a list of cars
     ArrayList<Car> myCars = new ArrayList<Car>();    
